@@ -1,0 +1,7 @@
+com/sentiments/rest/JaxrsInitializer.class
+com/sentiments/analyzers/SentimentAnalyzer.class
+com/sentiments/rest/PingResource.class
+com/sentiments/rest/SentimentsResource.class
+com/sentiments/rest/Result.class
+com/sentiments/analyzers/TweetWithSentiment.class
+com/sentiments/twitter/TwitterSearch.class
